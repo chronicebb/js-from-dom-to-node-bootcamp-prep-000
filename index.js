@@ -1,7 +1,9 @@
-var dog = "satisfied"
+var dog = 'thirsty'
 
 if (dog === "hungry") {
-  console.log(Refilling Food Bowl)
+  console.log("Refilling food bowl.")
+} else if (dog === "thirsty") {
+  console.log("Refilling water bowl.")
 } else {
-  console.log("Playing fetch")
+  console.log("Playing.")
 }
