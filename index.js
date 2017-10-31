@@ -1,5 +1,7 @@
-if (6 + 4 === 9) {
-  console.log("Subscribe")
+var dog = "satisfied"
+
+if (dog === "hungry") {
+  console.log(Refilling Food Bowl)
 } else {
-  console.log("Like")
+  console.log("Playing fetch")
 }
